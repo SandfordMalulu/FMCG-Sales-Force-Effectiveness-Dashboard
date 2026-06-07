@@ -34,6 +34,5 @@ The dashboard improves visibility into sales execution and supports management i
 ## Author
 Sandford Malulu
 Data Analyst | Power BI | SQL | Business Intelligence
-Sandford Malulu
 
 Data Analyst | Power BI | SQL | Business Intelligence
