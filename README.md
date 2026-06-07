@@ -2,6 +2,12 @@
 ## Project Overview
 This project showcases an interactive Power BI dashboard designed to monitor and analyze sales force effectiveness in an FMCG environment.
 The dashboard provides management with visibility into key sales and distribution performance indicators, helping identify opportunities for growth and operational improvement.
+## Key Insights Generated
+
+- Numeric Distribution reached 77% across monitored territories.
+- Product Division analysis identified Beverages as the highest contributor to sales volume.
+- Van-level performance analysis highlighted significant differences in route productivity.
+- Outlet billing analysis revealed opportunities to improve distribution coverage.
 ## Dashboard Preview
 
 ### Executive Dashboard
