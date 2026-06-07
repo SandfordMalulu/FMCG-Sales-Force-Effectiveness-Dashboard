@@ -33,6 +33,5 @@ The dashboard improves visibility into sales execution and supports management i
 - Supporting data-driven decisions
 ## Author
 Sandford Malulu
-Data Analyst | Power BI | SQL | Business Intelligence
 
 Data Analyst | Power BI | SQL | Business Intelligence
